@@ -1,0 +1,10 @@
+name: Trio
+version: 0.0.01
+author: MojamGames
+
+main: de.mojamgames.trio.Trio
+
+commands:
+  trio:
+    description: Main-Command
+    usage: /<command>

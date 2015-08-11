@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Trio">
+    <output-path>$PROJECT_DIR$/out/artifacts/Trio</output-path>
+    <root id="archive" name="Trio.jar">
+      <element id="module-output" name="Trio" />
+    </root>
+  </artifact>
+</component>
